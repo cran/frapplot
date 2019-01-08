@@ -1,0 +1,13 @@
+61fb51904426debe5dafa51a3f9d3eff *DESCRIPTION
+25e387e5d57caa04bc7407f7da65a53f *LICENSE
+38a59a8ecec10f2ff4e755195747d662 *NAMESPACE
+b242d25e1449b256d23f43cf1e36f2a0 *NEWS
+1acd8acbf56df10d249753892a15d032 *R/data.R
+f20040c949e4f83e3314309a2fabc257 *R/exclude.R
+c70eaf3103851030d6b81ddd917efb8a *R/frapplot.R
+0d68aac0db85256b7ac078b7dd821c45 *R/frapprocess.R
+e3683af11001afbd2c6fa147f92f5cf0 *data/example_dataset.rda
+592d48807b708f2faddf5750fc66b267 *man/example_dataset.Rd
+e7343991bbc8e098319cc67556603de1 *man/exclude.Rd
+d70ea82ba3ec1fa05c4f27fec8724d60 *man/frapplot.Rd
+e0e08d3bbb8681d162955da1f469f4c4 *man/frapprocess.Rd
